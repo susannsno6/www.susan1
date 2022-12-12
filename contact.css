@@ -1,0 +1,91 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.img{
+    background-image: url(./background.jpg);
+    background-size: cover;
+    width: 100%;
+    height: 40vh;
+}
+.header{
+    color: #fff;
+    font-size: 45px;
+    text-align: center;
+    padding-top: 323px;
+    font-family: sans-serif;
+    font-weight: bold;
+   
+}
+.header h1{
+    border: 1px solid rgba(0,0,0,0.5);
+  
+    background: rgba(0,0,0,0.5);
+    padding-bottom: 0px;
+}
+.h2{
+    font-family: sans-serif;
+    font-style: italic;
+    font-size: 20px;
+    margin: 5px;
+    text-align: center;
+    padding: 5px;
+}
+.location{
+margin: auto;
+padding: 80px;
+width: 80%;
+}
+.location iframe{
+    width: 100%;
+}
+.contact{
+    width: 80%;
+    margin: auto;
+}
+.col{
+flex: 48%;
+}
+.home i{
+    color: #f44336;
+    margin-bottom: 15px;
+    margin-top: 15px;
+}
+.num i{
+    color: #f44336;
+    margin-bottom: 15px;
+    margin-top: 15px;
+}
+.mail i{
+    color: #f44336;
+    margin-bottom: 15px;
+    margin-top: 15px;
+}
+.mail h3{
+    padding-bottom: 150px;
+}
+.form{
+    width: 50%;
+    box-sizing: border-box;
+    align-content: center;
+    padding-left: 650px;
+    margin-left: 650px;
+    padding-bottom: 15px;
+}
+.reg input ,.reg label{
+    display: inline-block;
+width: 250%;
+    font-family: sans-serif;
+    font-style: italic;
+
+    
+}
+.fill h1{
+    font-size: 25px;
+    font-family: sans-serif;
+    font-style: italic;
+    font-weight: bold;
+    color: #f44336;
+    padding-top: 250;
+    margin-left: 150px;
+}
